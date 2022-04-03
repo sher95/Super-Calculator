@@ -2,7 +2,7 @@ import configparser
 
 config = configparser.RawConfigParser()
 
-config.read("SuperCalculator/Configurations/config.ini")
+config.read("Configurations/config.ini")
 
 
 class read_Config:
